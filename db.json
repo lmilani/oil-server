@@ -1,0 +1,18 @@
+{
+  "issues": [
+    {
+      "issueType": "Technical",
+      "identifier": "Pippo",
+      "timing": "today",
+      "description": title,
+      "priority": "High Priority",
+      "owner": "Pluto",
+      "targetResolutionDate": "tomorrow",
+      "status": "Open",
+      "action": "Assigned issue to Pluto",
+    }
+  ],
+  "profile": {
+    "name": "luca"
+  }
+}
