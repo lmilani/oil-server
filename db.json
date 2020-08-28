@@ -4,7 +4,7 @@
       "issueType": "Technical",
       "identifier": "Pippo",
       "timing": "today",
-      "description": title,
+      "description": "This is a description",
       "priority": "High Priority",
       "owner": "Pluto",
       "targetResolutionDate": "tomorrow",
