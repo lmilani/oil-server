@@ -11,6 +11,18 @@
       "targetResolutionDate": "tomorrow",
       "status": "Open",
       "action": "Assigned issue to Pluto"
+    },
+    {
+      "id": 2,
+      "issueType": "Technical",
+      "identifier": "Pluto",
+      "timing": "today",
+      "description": "This is a description",
+      "priority": "Low Priority",
+      "owner": "Donald Duck",
+      "targetResolutionDate": "tomorrow",
+      "status": "Closed",
+      "action": "Donald solved everything"
     }
   ],
   "profile": {
