@@ -1,6 +1,7 @@
 {
   "issues": [
     {
+      "id": 1,
       "issueType": "Technical",
       "identifier": "Pippo",
       "timing": "today",
